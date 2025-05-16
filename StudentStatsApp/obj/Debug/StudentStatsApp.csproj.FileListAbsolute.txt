@@ -1,0 +1,7 @@
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\StudentStatsApp\bin\Debug\StudentStatsApp.exe.config
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\StudentStatsApp\bin\Debug\StudentStatsApp.exe
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\StudentStatsApp\bin\Debug\StudentStatsApp.pdb
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\StudentStatsApp\obj\Debug\StudentStatsApp.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\StudentStatsApp\obj\Debug\StudentStatsApp.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\StudentStatsApp\obj\Debug\StudentStatsApp.exe
+C:\Users\lab_services_student\Desktop\Prog6221_IceTask2\StudentStatsApp\obj\Debug\StudentStatsApp.pdb
